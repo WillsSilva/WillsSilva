@@ -4,7 +4,7 @@
 🐍 Amante de **Python**, fã de **Django** e **FastAPI**, e as vezes me arrisco no **JavaScript**  
 🗄️ Trabalho com **SQL**, **JSON** e até **Dataflex** (sim, ele ainda existe!)  
 🔌 Especialista na criação de **APIs** que funcionam — e até documentadas 😏  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,git,mysql,mongodb,notion)](https://skillicons.dev)
 ---
 
 ## 🚀 O que me move
